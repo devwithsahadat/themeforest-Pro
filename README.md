@@ -61,7 +61,7 @@ themeforest/
 └── README.md                # This file
 ```
 
-## Project Update SOON
+# Project Update SOON
 
 ## Troubleshooting
 
